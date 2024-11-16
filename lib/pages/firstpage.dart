@@ -26,6 +26,8 @@ class _VideoScreenState extends State<VideoScreen> {
     final List<String> videoFiles = [
       'assets/videos/143419-782363231_small.mp4',
       'assets/videos/209424_small.mp4',
+      'assets/videos/another.mov'
+
 
     ];
 
